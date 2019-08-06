@@ -72,8 +72,8 @@ EthernetClient client;
   read API key to access it.  We'll read from the first field.
 */
 unsigned long myChannelNumber = 31461;
-const char * myReadAPIKey = "NKX4Z5JGO4M5I18A";
-const char * myWriteAPIKey = "asdf";
+const char * myReadAPIKey = "";
+const char * myWriteAPIKey = "";
 
 RTClib RTC;
 
